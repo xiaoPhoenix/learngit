@@ -9,4 +9,8 @@ come on
  
  crating a new branch
  
+<<<<<<< HEAD
 heeelll
+=======
+ crating a new branch
+>>>>>>> feature
